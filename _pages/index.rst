@@ -601,6 +601,7 @@ Exploits
 - `CVE-2024-3400 <https://github.com/h4x0r-dz/CVE-2024-3400>`_ - CVE-2024-3400 Palo Alto OS Command Injection.
 - `Chakra-2016-11 <https://github.com/theori-io/chakra-2016-11>`_ - Proof-of-Concept exploit for Edge bugs (CVE-2016-7200 & CVE-2016-7201).
 - `Chimay-Red <https://github.com/BigNerd95/Chimay-Red>`_ - Working POC of Mikrotik exploit from Vault 7 CIA Leaks.
+- `Copy-fail-CVE-2026-31431 <https://github.com/theori-io/copy-fail-CVE-2026-31431>`_ - Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE
 - `Desharialize <https://github.com/Voulnet/desharialize>`_ - Easy mode to Exploit CVE-2019-0604 (Sharepoint XML Deserialization Unauthenticated RCE).
 - `Dirty-cow-golang <https://github.com/mengzhuo/dirty-cow-golang>`_ - Dirty Cow implement in Go
 - `Dirtycow <https://github.com/FireFart/dirtycow>`_ - This exploit uses the pokemon exploit of the dirtycow vulnerability as a base and automatically generates a new passwd line. The user will be prompted for the new password when the binary is run. The original /etc/passwd file is then backed up to /tmp/passwd.bak and overwrites the root account with the generated line. After running the exploit you should be able to login with the newly created user.
